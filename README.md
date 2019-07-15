@@ -1,7 +1,7 @@
 What are we doing?
 
-    To support course 20533 Implementing Microsoft Azure Infrastructure Solutions, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
-    We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
+    To support course Integrating Hybrid Cloud with Data Fabric, we will need to make frequent updates to the course content to keep it current with AWS and Azure services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and authorized instructors to keep the content current with changes with this NetApp Hybrid Cloud Solution
+    We hope that this brings a sense of collaboration to the labs like we've never had before - when the provider platforms changes you'll change it during a live delivery, go ahead and make an enhancement right in the lab source. Help your colleagues.
 
 How should I use these files relative to the released MOC files?
 
