@@ -5,8 +5,8 @@ What are we doing?
 
 How should I use these files relative to the released MOC files?
 
-    The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
-    These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so instructors and course authors can have a shared source for the latest lab files.
+    The instructor PowerPoints are still going to be your primary source for teaching the course content.
+    These files on GitHub are designed to be used in conjunction with the student guide, but are in GitHub as a central repository so instructors and course authors can have a shared source for the latest lab files.
     It is recommended that for every course delivery, trainers check GitHub for any changes that may have been made to support the latest NetApp content, and get the latest files for their delivery.
         You can make the lab files available to students by downloading the .md files, using Pandoc to create the Word docs from the .md files, and then printing and distributing the files to students. The lab instructions are also available as a Web page at http://microsoftlearning.github.io/20533-ImplementingMicrosoftAzureInfrastructureSolutions.
 
