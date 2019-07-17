@@ -18,8 +18,8 @@ Notes about the Demos in the course
 
 What about changes to the student handbook?
 
-    We will review the student handbook (including demos) on a quarterly basis and update through the normal MOC release channels as needed.
+    We will review feedback from the field instructors on a quarterlay basis and update student and instructor guides to reflect those changes. All updated materials will be deposited in the updated folders on this GitHub repository. 
 
 
 
-Note: After you download the latest lab files from GitHub ensure they are compatible with the version of courseware you will be teaching. This ensures that any PowerShell modules that have previously been run will be replaced in memory by the latest versions. 
+Note: After you download the latest lab files from GitHub ensure they are compatible with the version of courseware you will be teaching. 
