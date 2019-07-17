@@ -3,7 +3,7 @@ What are we doing?
     To support course Integrating Hybrid Cloud with Data Fabric, we will need to make frequent updates to the course content to keep it current with AWS and Azure services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and authorized instructors to keep the content current with changes with this NetApp Hybrid Cloud Solution
     We hope that this brings a sense of collaboration to the labs like we've never had before - when the provider platforms changes you'll change it during a live delivery, go ahead and make an enhancement right in the lab source. Help your colleagues.
 
-How should I use these files relative to the released MOC files?
+How should I use these files relative to the standard released files from grendel?
 
     The instructor PowerPoints are still going to be your primary source for teaching the course content.
     These files on GitHub are designed to be used in conjunction with the student guide, but are in GitHub as a central repository so instructors and course authors can have a shared source for the latest lab files.
